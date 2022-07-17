@@ -12,4 +12,10 @@
          <li>Generate final invoice</li>
          <li>View transactions</li>
          </ul>
-<h4>How to run the application?</h4>
+<h4>How to run the application?</h4><br>It's simple
+<ol>
+         <li>Download the file "".</li>
+         <li>Open with Microsoft Access</li>
+         <li>Double click on "START HERE" under forms object</li>
+</ol>
+
