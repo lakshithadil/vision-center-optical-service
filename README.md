@@ -14,7 +14,7 @@
          </ul>
 <h4>How to run the application?</h4>It's simple
 <ol>
-         <li>Download the file "".</li>
+         <li>Download the file "vision center.accdb".</li>
          <li>Open with Microsoft Access.</li>
          <li>Double click on "START HERE" under forms object.</li>
 </ol>
