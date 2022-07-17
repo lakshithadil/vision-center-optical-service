@@ -1,6 +1,6 @@
 # vision-center optical-service
-<h2>Microsoft access database application with simple form UI for an optical service</h2><br>
-features and functionalities 
+<h2>Microsoft access database application with simple form UI for an optical service</h2>
+<h4>features and functionalities</h4>
          <ul>
          <li>Place an order</li>
          <li>Add products</li>
@@ -12,3 +12,4 @@ features and functionalities
          <li>Generate final invoice</li>
          <li>View transactions</li>
          </ul>
+<h4>How to run the application?</h4>
